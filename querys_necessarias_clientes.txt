@@ -1,0 +1,9 @@
+use teste;	
+insert into clientes(name, email, phone)values('João','joao@contato.com.br', (00)-0000-000);
+insert into clientes(name, email, phone)values('Maria','Maria@contato.com.br', (00)-0000-000);
+insert into clientes(name, email, phone)values('Carlos','Carlos@contato.com.br', (00)-0000-000);
+insert into clientes(name, email, phone)values('Joana','Joana@contato.com.br', (00)-0000-000);
+insert into clientes(name, email, phone)values('Mauricio','Mauricio@contato.com.br', (00)-0000-000);
+insert into clientes(name, email, phone)values('Feranando','Fernando@contato.com.br', (00)-0000-000);
+insert into clientes(name, email, phone)values('Gabriel','Gabriel@contato.com.br', (00)-0000-000);
+select * from clientes;
