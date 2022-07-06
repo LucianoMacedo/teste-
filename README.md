@@ -1,4 +1,5 @@
 Segue as instruções para acessar o sistema de cliente.. 
+<br>
 0.clonar o repositorio.<br> 
 1.vou deixar um arquivo com as querys por meio de banco de dados<br> 
 2.fiz um faker para popular o banco de dados:<br> 
